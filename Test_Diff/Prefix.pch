@@ -1,0 +1,11 @@
+#ifdef __OBJC__
+
+// Frameworks
+#import <CoreGraphics/CoreGraphics.h>
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#import "DiffMatchPatch.h"
+
+#import "CCoreTextLabel_HTMLExtensions.h"
+#endif

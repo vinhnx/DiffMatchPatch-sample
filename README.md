@@ -1,4 +1,3 @@
-diff-match-patch
-================
+# Test_Diff
 
-testing https://github.com/inquisitiveSoft/DiffMatchPatch-ObjC?source=c
+Test_Diff is a simple iPhone application.

@@ -1,0 +1,13 @@
+PODS:
+  - CoreTextToy (1.0.2)
+  - DiffMatchPatch-ObjC (1.0.0)
+
+DEPENDENCIES:
+  - CoreTextToy (~> 1.0.2)
+  - DiffMatchPatch-ObjC (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  CoreTextToy: c4376cf78470d9a0e6eb3b4c93e0a3019e5e8efe
+  DiffMatchPatch-ObjC: 6a2e357e0a6529394fce1ccf8c61013cfec9700a
+
+COCOAPODS: 0.23.0

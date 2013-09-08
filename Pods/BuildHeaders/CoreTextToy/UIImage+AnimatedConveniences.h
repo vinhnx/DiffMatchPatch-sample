@@ -1,0 +1,1 @@
+../../CoreTextToy/Source/UIImage+AnimatedConveniences.h

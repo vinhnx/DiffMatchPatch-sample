@@ -1,0 +1,1 @@
+../../DiffMatchPatch-ObjC/Source/NSString+EscapeHTMLCharacters.h

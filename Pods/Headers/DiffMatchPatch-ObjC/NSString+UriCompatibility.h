@@ -1,0 +1,1 @@
+../../DiffMatchPatch-ObjC/Source/NSString+UriCompatibility.h
